@@ -1,0 +1,5 @@
+ {
+     "name": "myparkfolio/jars-json-smart",
+     "description": "This will provide the libraries for JSON small & fast parser",
+     "type": "library"
+ }
